@@ -4,8 +4,7 @@ import json
 import argparse
 from tqdm import tqdm
 from prompt_client import PromptClient
-sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
-from utils import _MODEL_ID_TO_FILE_PATH, TEMPERATURE, TOP_P, TRIALS
+from llm_utils import _MODEL_ID_TO_FILE_PATH, TEMPERATURE, TOP_P, TRIALS
 
 class PromptProcessor:
     def __init__(self, model_id, prompting_technique, country_codes, input_dir, output_dir):

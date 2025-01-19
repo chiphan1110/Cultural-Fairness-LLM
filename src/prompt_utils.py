@@ -1,6 +1,6 @@
 import os
 
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))  # Cultural-Fairness-LLM
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../"))  # Cultural-Fairness-LLM
 
 # Define paths relative to BASE_DIR
 COUNTRY_NATIONALITY_MAP = {

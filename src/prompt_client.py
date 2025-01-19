@@ -31,7 +31,7 @@ class PromptClient:
         response = openai.ChatCompletion.create(
             model="gpt-4",
             messages=messages,
-            max_tokens=200,
+            max_tokens=300,
             temperature=temperature,
             top_p=top_p
         )
@@ -47,7 +47,7 @@ class PromptClient:
         response = self.together.chat.completions.create(
             model=self.model_id,
             messages=messages,
-            max_tokens=100,
+            max_tokens=300,
             temperature=temperature,
             top_p=top_p,
             top_k=50,
@@ -63,7 +63,7 @@ class PromptClient:
 
         return response_text.strip()
     
-    def _call_gemini(self, messages, max_output_tokens=100, temperature=0.7, top_p=0.9):
+    def _call_gemini(self, messages, max_output_tokens=300, temperature=0.7, top_p=0.9):
         """
         Call the Gemini model using Google Generative AI.
         """
