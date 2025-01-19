@@ -1,0 +1,7 @@
+dimension,prompt1-country,prompt2-citizenship,prompt3-language
+PDI,"['US', 'CN', 'VN']","['US', 'VN', 'CN']","['US', 'CN', 'VN']"
+IDV,"['CN', 'VN', 'US']","['VN', 'CN', 'US']","['CN', 'VN', 'US']"
+MAS,"['US', 'CN', 'VN']","['US', 'VN', 'CN']","['US', 'CN', 'VN']"
+UAI,"['US', 'VN', 'CN']","['CN', 'US', 'VN']","['US', 'CN', 'VN']"
+LTO,"['US', 'CN', 'VN']","['US', 'VN', 'CN']","['US', 'CN', 'VN']"
+IND,"['CN', 'VN', 'US']","['CN', 'VN', 'US']","['CN', 'VN', 'US']"

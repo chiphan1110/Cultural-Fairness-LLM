@@ -1,0 +1,7 @@
+dimension,ranking
+PDI,"['US', 'VN', 'CN']"
+IDV,"['VN', 'CN', 'US']"
+MAS,"['VN', 'US', 'CN']"
+UAI,"['CN', 'VN', 'US']"
+LTO,"['VN', 'US', 'CN']"
+IND,"['CN', 'VN', 'US']"

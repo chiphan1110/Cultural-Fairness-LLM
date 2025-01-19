@@ -1,0 +1,4 @@
+Region (Mis-Ranked %),Gemini-1.5-flash,Llama-3.3-70B-Instruct-Turbo,Ground-truth,GPT-4,Average Mis-Ranked %
+CN,200%,250%,0%,167%,154%
+US,83%,117%,0%,150%,88%
+VN,217%,233%,0%,200%,162%
