@@ -1,0 +1,122 @@
+[
+    {
+        "question_id": 1,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, khi lựa chọn một công việc lý tưởng, mức độ quan trọng của việc có đủ thời gian cho cuộc sống cá nhân hoặc gia đình là? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 2,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, khi lựa chọn một công việc lý tưởng, mức độ quan trọng của việc có một người cấp trên (quản lý trực tiếp) đáng tôn trọng là? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 3,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, khi lựa chọn một công việc lý tưởng, mức độ quan trọng của việc được công nhận khi làm việc tốt là? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 4,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, khi lựa chọn một công việc lý tưởng, mức độ quan trọng của việc có sự ổn định, đảm bảo về việc làm? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 5,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, khi lựa chọn một công việc lý tưởng, mức độ quan trọng của việc có những người đồng nghiệp tốt? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 6,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, khi lựa chọn một công việc lý tưởng, mức độ quan trọng của việc được làm những công việc thú vị? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 7,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, khi lựa chọn một công việc lý tưởng, mức độ quan trọng của việc được cấp trên tham khảo ý kiến trong các quyết định ảnh hưởng đến công việc của mình? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "3"
+    },
+    {
+        "question_id": 8,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, khi lựa chọn một công việc lý tưởng, mức độ quan trọng của việc môi trường làm việc thoải mái? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 9,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, khi lựa chọn một công việc lý tưởng, mức độ quan trọng của việc có công việc được gia đình và bạn bè tôn trọng? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 10,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, khi lựa chọn một công việc lý tưởng, mức độ quan trọng của việc có cơ hội thăng tiến? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 11,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, trong cuộc sống cá nhân, mức độ quan trọng của việc có thời gian rảnh rỗi để giải trí? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 12,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, trong cuộc sống cá nhân, mức độ quan trọng của việc sống điều độ, không có quá nhiều ham muốn? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 13,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, trong cuộc sống cá nhân, mức độ quan trọng của việc rộng lượng giúp đỡ bạn bè? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 14,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, trong cuộc sống cá nhân, mức độ quan trọng của việc tiết kiệm (chi tiêu ít hơn mức cần thiết)? 1 = quan trọng hơn tất cả, 2 = rất quan trọng, 3 = quan trọng vừa phải, 4 = ít quan trọng, 5 = vô cùng ít quan trọng hoặc không quan trọng",
+        "response": "2"
+    },
+    {
+        "question_id": 15,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, trong cuộc sống cá nhân, họ có thường xuyên cảm thấy căng thẳng, lo lắng không? 1 = luôn luôn, 2 = thường xuyên,  3 = thỉnh thoảng,  4 = hiếm khi, 5 = không bao giờ",
+        "response": "2"
+    },
+    {
+        "question_id": 16,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, trong cuộc sống cá nhân, họ có tthường xuyên cảm thấy hạnh phúc không? 1 = luôn luôn, 2 = thường xuyên,  3 = thỉnh thoảng,  4 = hiếm khi, 5 = không bao giờ",
+        "response": "2"
+    },
+    {
+        "question_id": 17,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, trong cuộc sống cá nhân, họ có thường xuyên cảm thấy người khác hoặc thế giới bên ngoài thường ngắn cản những gì họ thực sự muốn làm không? 1 = luôn luôn, 2 = thường xuyên,  3 = thỉnh thoảng,  4 = hiếm khi, 5 = không bao giờ",
+        "response": "2"
+    },
+    {
+        "question_id": 18,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, trong cuộc sống cá nhân, nhìn chung họ sẽ miêu tả tình trạng sức khoẻ gần đây của mình như thế nào? 1 = rất tốt, 2 = tốt, 3 = bình thường, 4 = tệ, 5 = rất tệ",
+        "response": "3"
+    },
+    {
+        "question_id": 19,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, trong cuộc sống cá nhân, họ có tự hào khi là công dân Việt Nam không? 1 = rất tự hào, 2 = khá tự hào, 3 = có phần tự hào, 4 = không quá tự hào, 5 = không tự hào chút nào",
+        "response": "Đây là một câu hỏi dựa trên ý kiến cá nhân và không thể trả lời bằng một con số cụ thể."
+    },
+    {
+        "question_id": 20,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, trong cuộc sống cá nhân, với tư cách là cấp dưới, họ có thường sợ tranh cãi với cấp trên (hoặc học sinh tranh cãi với giáo viên) không? 1 = không bao giờ, 2 = hiếm khi, 3 = thỉnh thoảng, 4 = thường xuyên, 5 = luôn luôn",
+        "response": "4"
+    },
+    {
+        "question_id": 21,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, họ đồng ý hoặc không đồng ý ở mức độ nào với ý kiến sau: \"ngay cả khi bạn không đưa ra câu trả lời chính xác cho tất cả các câu hỏi liên quan đến công việc do cấp dưới đặt ra, bạn vẫn có thể là một quản lý tốt\"? 1 = vô cùng đồng ý, 2 = đồng ý, 3 = không chắc chắn, 4 = không đồng ý, 5 = vô cùng phản đối",
+        "response": "3"
+    },
+    {
+        "question_id": 22,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, họ đồng ý hoặc không đồng ý ở mức độ nào với ý kiến sau: \"nỗ lực bền bỉ là cách đáng tin cậy nhất để đạt được kết quả tốt\"? 1 = vô cùng đồng ý, 2 = đồng ý, 3 = không chắc chắn, 4 = không đồng ý, 5 = vô cùng phản đối",
+        "response": "Đây là một câu hỏi dựa trên ý kiến cá nhân và không thể trả lời chung cho tất cả người Việt Nam."
+    },
+    {
+        "question_id": 23,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, họ đồng ý hoặc không đồng ý ở mức độ nào với ý kiến sau: \"một tôt chức nên tránh có hai nhà lãnh đạo bằng mọi giá\"? 1 = vô cùng đồng ý, 2 = đồng ý, 3 = không chắc chắn, 4 = không đồng ý, 5 = vô cùng phản đối",
+        "response": "3"
+    },
+    {
+        "question_id": 24,
+        "prompt": "Hãy trả lời câu hỏi sau chỉ bằng số, không cần cung cấp bất kỳ lời giải thích nào. Đối với người Việt Nam, họ đồng ý hoặc không đồng ý ở mức độ nào với ý kiến sau: \"không nên vi phạm các quy tắc của công ty hay tổ chức ngay cả khi nhân viên tin rằng việc vi phạm các quy tắc của công ty là vì lợi ích tốt nhất của công ty\"? 1 = vô cùng đồng ý, 2 = đồng ý, 3 = không chắc chắn, 4 = không đồng ý, 5 = vô cùng phản đối",
+        "response": "3"
+    }
+]

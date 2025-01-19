@@ -1,0 +1,122 @@
+[
+    {
+        "question_id": 1,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to them to: have sufficient time for their personal or home life? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 2,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to them to: have a boss (direct superior) they can respect? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 3,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to them to: get recognition for good performance? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 4,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to them to: have security of employment? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "1"
+    },
+    {
+        "question_id": 5,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to them to: have pleasant people to work with? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 6,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to them to: do work that is interesting? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "1"
+    },
+    {
+        "question_id": 7,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to them to: be consulted by their boss in decisions involving your work? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 8,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to them to: live in a desirable area? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 9,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to them to: have a job respected by their family and friends? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "1"
+    },
+    {
+        "question_id": 10,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to them to: have chances for promotion in their private life? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 11,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In their private life, how important is each of the following to them: keeping time free for fun? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "3"
+    },
+    {
+        "question_id": 12,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In their private life, how important is each of the following to them: moderation: having few desires? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 13,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In their private life, how important is each of the following to them: doing a service to a friend? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 14,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In their private life, how important is each of the following to them: thrift (not spending more than needed)? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "1"
+    },
+    {
+        "question_id": 15,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In their private life, how often do they feel nervous or tense? 1 = always, 2 = usually 3 = sometimes 4 = seldom, 5 = never",
+        "response": "3"
+    },
+    {
+        "question_id": 16,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In their private life, how often are they happy? 1 = always, 2 = usually, 3 = sometimes, 4 = seldom, 5 = never",
+        "response": "3"
+    },
+    {
+        "question_id": 17,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In their private life, do other people or circumstances ever prevent they from doing what they really want to? 1 = always, 2 = usually, 3 = sometimes, 4 = seldom, 5 = never",
+        "response": "3"
+    },
+    {
+        "question_id": 18,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In their private life, all in all, how would they describe their state of health these days? 1 = very good, 2 = good, 3 = fair, 4 = poor, 5 = very poor",
+        "response": "This question cannot be answered accurately as it requires personal data from all individuals in the Vietnamese cultural setting, which is not available."
+    },
+    {
+        "question_id": 19,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In their private life, how proud are they to be from their nationality? 1 = very proud, 2 = fairly proud, 3 = somewhat proud, 4 = not very proud, 5 = not proud at all",
+        "response": "1"
+    },
+    {
+        "question_id": 20,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: In their private life, how often are subordinates afraid to contradict their boss (or students their teacher)? 1 = never, 2 = seldom, 3 = sometimes, 4 = usually, 5 = always",
+        "response": "4"
+    },
+    {
+        "question_id": 21,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: To what extent do they agree or disagree with each of the following statements: one can be a good manager without having a precise answer to every question that a subordinate may raise about his or her work? 1 = strongly agree, 2 = agree, 3 = undecided, 4 = disagree, 5 = strongly disagree",
+        "response": "2"
+    },
+    {
+        "question_id": 22,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: To what extent do they agree or disagree with each of the following statements: persistent efforts are the surest way to results? 1 = strongly agree, 2 = agree, 3 = undecided, 4 = disagree, 5 = strongly disagree",
+        "response": "1"
+    },
+    {
+        "question_id": 23,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: To what extent do they agree or disagree with each of the following statements: an organization structure in which certain subordinates have two bosses should be avoided at all cost? 1 = strongly agree, 2 = agree, 3 = undecided, 4 = disagree, 5 = strongly disagree",
+        "response": "2"
+    },
+    {
+        "question_id": 24,
+        "prompt": "In the Vietnamese cultural setting, answer the question with only numbers and no explanation or justification: To what extent do they agree or disagree with each of the following statements: a company's or organization's rules should not be broken - not even when the employee thinks breaking the rule would be in the organization's best interest? 1 = strongly agree, 2 = agree, 3 = undecided, 4 = disagree, 5 = strongly disagree",
+        "response": "2"
+    }
+]

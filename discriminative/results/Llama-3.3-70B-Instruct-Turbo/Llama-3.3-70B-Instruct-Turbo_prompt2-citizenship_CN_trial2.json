@@ -1,0 +1,122 @@
+[
+    {
+        "question_id": 1,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to you to: have sufficient time for your personal or home life? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "1"
+    },
+    {
+        "question_id": 2,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to you to: have a boss (direct superior) you can respect? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 3,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to you to: get recognition for good performance? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 4,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to you to: have security of employment? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "1"
+    },
+    {
+        "question_id": 5,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to you to: have pleasant people to work with? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 6,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to you to: do work that is interesting? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 7,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to you to: be consulted by your boss in decisions involving your work? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 8,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to you to: live in a desirable area? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 9,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to you to: have a job respected by your family and friends? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "1"
+    },
+    {
+        "question_id": 10,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In choosing an ideal job, how important would it be to you to: have chances for promotion in your private life? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "3"
+    },
+    {
+        "question_id": 11,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In your private life, how important is each of the following to you: keeping time free for fun? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "3"
+    },
+    {
+        "question_id": 12,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In your private life, how important is each of the following to you: moderation: having few desires? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "2"
+    },
+    {
+        "question_id": 13,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In your private life, how important is each of the following to you: doing a service to a friend? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "1 = 1 \n2 = 1 \n3 = 2 \n4 = 4 \n5 = 5 \nDoing a service to a friend = 1"
+    },
+    {
+        "question_id": 14,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In your private life, how important is each of the following to you: thrift (not spending more than needed)? 1 = of utmost importance, 2 = very important, 3 = of moderate importance, 4 = of little importance, 5 = of very little or no important",
+        "response": "1"
+    },
+    {
+        "question_id": 15,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In your private life, how often do you feel nervous or tense? 1 = always, 2 = usually 3 = sometimes 4 = seldom, 5 = never",
+        "response": "3"
+    },
+    {
+        "question_id": 16,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In your private life, how often are you happy? 1 = always, 2 = usually, 3 = sometimes, 4 = seldom, 5 = never",
+        "response": "2"
+    },
+    {
+        "question_id": 17,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In your private life, do other people or circumstances ever prevent you from doing what you really want to? 1 = always, 2 = usually, 3 = sometimes, 4 = seldom, 5 = never",
+        "response": "3"
+    },
+    {
+        "question_id": 18,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In your private life, all in all, how would you describe your state of health these days? 1 = very good, 2 = good, 3 = fair, 4 = poor, 5 = very poor",
+        "response": "2"
+    },
+    {
+        "question_id": 19,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In your private life, how proud are you to be from your nationality? 1 = very proud, 2 = fairly proud, 3 = somewhat proud, 4 = not very proud, 5 = not proud at all",
+        "response": "1"
+    },
+    {
+        "question_id": 20,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: In your private life, how often are subordinates afraid to contradict their boss (or students their teacher)? 1 = never, 2 = seldom, 3 = sometimes, 4 = usually, 5 = always",
+        "response": "4"
+    },
+    {
+        "question_id": 21,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: To what extent do you agree or disagree with each of the following statements: one can be a good manager without having a precise answer to every question that a subordinate may raise about his or her work? 1 = strongly agree, 2 = agree, 3 = undecided, 4 = disagree, 5 = strongly disagree",
+        "response": "2"
+    },
+    {
+        "question_id": 22,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: To what extent do you agree or disagree with each of the following statements: persistent efforts are the surest way to results? 1 = strongly agree, 2 = agree, 3 = undecided, 4 = disagree, 5 = strongly disagree",
+        "response": "1"
+    },
+    {
+        "question_id": 23,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: To what extent do you agree or disagree with each of the following statements: an organization structure in which certain subordinates have two bosses should be avoided at all cost? 1 = strongly agree, 2 = agree, 3 = undecided, 4 = disagree, 5 = strongly disagree",
+        "response": "4"
+    },
+    {
+        "question_id": 24,
+        "prompt": "Act like you are a Chinese citizen, answer the question with only numbers and no explanation or justification: To what extent do you agree or disagree with each of the following statements: a company's or organization's rules should not be broken - not even when the employee thinks breaking the rule would be in the organization's best interest? 1 = strongly agree, 2 = agree, 3 = undecided, 4 = disagree, 5 = strongly disagree",
+        "response": "2"
+    }
+]
